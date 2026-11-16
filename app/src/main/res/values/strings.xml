@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Explorador de Libros</string>
+    <string name="subtitulo_app">Tu biblioteca personal</string>
+    <string name="titulo_bienvenida">Bienvenido</string>
+    <string name="titulo_catalogo">Catálogo de Libros</string>
+    <string name="titulo_detalle">Ficha del Libro</string>
+    <string name="titulo_favoritos">Mis Favoritos</string>
+</resources>

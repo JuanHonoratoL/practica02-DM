@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary">#D7CCC8</color>
+    <color name="primary_variant">#241510</color>
+    <color name="primary_light">#38241C</color>
+    <color name="secondary">#BCAAA4</color>
+    <color name="secondary_light">#2C1D17</color>
+    <color name="accent_orange">#D97706</color>
+    <color name="accent_orange_light">#3B2610</color>
+
+    <color name="bg_screen">#160F0C</color>
+    <color name="bg_card">#241813</color>
+    <color name="bg_card_subtle">#31211A</color>
+    <color name="text_primary">#F5ECE4</color>
+    <color name="text_secondary">#B8A195</color>
+    <color name="border_color">#422E25</color>
+
+    <color name="shelf_wood_top">#4E342E</color>
+    <color name="shelf_wood_front">#2D1B15</color>
+    <color name="book_spine">#1B0F0B</color>
+    <color name="book_cover_surface">#281B15</color>
+    <color name="bottom_nav_bg">#1E1410</color>
+
+    <color name="status_available_bg">#1E3323</color>
+    <color name="status_available_text">#98C9A3</color>
+    <color name="status_unavailable_bg">#3D1E1C</color>
+    <color name="status_unavailable_text">#E59892</color>
+    <color name="favorite_red">#E05A4F</color>
+</resources>
